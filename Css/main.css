@@ -48,6 +48,11 @@ body{
     font-size: 20px;
 }
 
+.focusInput::placeholder{
+    color:skyblue;
+
+}
+
 .border-right{
     width: 3px;
     height: 18px ;
