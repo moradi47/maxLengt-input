@@ -3,3 +3,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    width:100%;
+    height: 100vh;
+    background-image: linear-gradient( #58D0F0, #57D6E9, #56DCDF, #57E0D8) ;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
